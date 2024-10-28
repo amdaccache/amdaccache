@@ -64,7 +64,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#amdaccache-tech">
-        <img src="nemo/PNG" width="48" height="48" alt="NVIDIA Nemo" />
+        <img src="nemo.PNG" width="48" height="48" alt="NVIDIA Nemo" />
       </a>
       <br>NVIDIA NeMo
     </td>
