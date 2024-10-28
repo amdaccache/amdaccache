@@ -64,7 +64,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#amdaccache-tech">
-        <img src="https://assets.nvidiagrid.net/ngc/logos/Nemo.png" width="48" height="48" alt="NVIDIA Nemo" />
+        <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png" width="48" height="48" alt="NVIDIA Nemo" />
       </a>
       <br>NVIDIA NeMo
     </td>
