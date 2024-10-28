@@ -97,7 +97,7 @@
     </td>
     <td align="center" width="96">
       <a href="#amdacccache-tech">
-        <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" width="48" height="48" alt="Docker" />
+        <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -109,7 +109,7 @@
     </td>
      <td align="center" width="96">
       <a href="#amdaccache-tech">
-        <img src="https://cabinetm-beta.s3.amazonaws.com/00000176-430a-9ee2-f496-cbf31843c44a.jpg" width="48" height="48" alt="Splunk" />
+        <img src="https://pbs.twimg.com/profile_images/1755264296345366528/CeKrZyfs_400x400.jpg" width="48" height="48" alt="Splunk" />
       </a>
       <br>Splunk
     </td>
