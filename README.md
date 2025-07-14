@@ -1,6 +1,6 @@
 
 <h1 align="left" id="amdacccache-title"> Hi I'm Anna!</h1>
-<h3 align="left">I am a Solutions Architect passionate about democratizing technology and understanding the intersection of AI and industry!</h3>
+<h3 align="left">I am a Solutions Architect passionate about democratizing technology!</h3>
 
 - :office: &nbsp;I work at **NVIDIA**
 - :seedling: &nbsp;I’m currently learning more about **Genomics & Responsible AI**
