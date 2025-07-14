@@ -3,8 +3,8 @@
 <h3 align="left">I am a Solutions Architect passionate about democratizing technology and understanding the intersection of AI and industry!</h3>
 
 - :office: &nbsp;I work at **NVIDIA**
-- :seedling: &nbsp;I’m currently learning more about **Networking & Infra**
-- :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **GPU accelerating Data Science pipelines**
+- :seedling: &nbsp;I’m currently learning more about **Genomics & Responsible AI**
+- :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **Health tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
