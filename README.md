@@ -111,7 +111,7 @@
       <a href="#amdaccache-tech">
         <img src="https://pbs.twimg.com/profile_images/1755264296345366528/CeKrZyfs_400x400.jpg" width="48" height="48" alt="Splunk" />
       </a>
-      <br>Splunk
+      <br>LangChain
     </td>
   </tr>
     
