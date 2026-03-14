@@ -97,7 +97,7 @@
     </td>
     <td align="center" width="96">
       <a href="#amdacccache-tech">
-        <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png" width="48" height="48" alt="Docker" />
+        <img src="[https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png)" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -109,7 +109,7 @@
     </td>
      <td align="center" width="96">
       <a href="#amdaccache-tech">
-        <img src="https://pbs.twimg.com/profile_images/1755264296345366528/CeKrZyfs_400x400.jpg" width="48" height="48" alt="Splunk" />
+        <img src="https://pbs.twimg.com/profile_images/1755264296345366528/CeKrZyfs_400x400.jpg" width="48" height="48" alt="LangChain" />
       </a>
       <br>LangChain
     </td>
