@@ -97,7 +97,7 @@
     </td>
     <td align="center" width="96">
       <a href="#amdacccache-tech">
-        <img src="[https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png)" width="48" height="48" alt="Docker" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
