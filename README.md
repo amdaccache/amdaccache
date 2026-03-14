@@ -109,7 +109,7 @@
     </td>
      <td align="center" width="96">
       <a href="#amdaccache-tech">
-        <img src="https://pbs.twimg.com/profile_images/1755264296345366528/CeKrZyfs_400x400.jpg" width="48" height="48" alt="LangChain" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" width="48" height="48" alt="LangChain" />
       </a>
       <br>LangChain
     </td>
