@@ -3,7 +3,7 @@
 <h3 align="left">I am a Solutions Architect passionate about democratizing technology!</h3>
 
 - :office: &nbsp;I work at **NVIDIA**
-- :seedling: &nbsp;I’m currently working on **AI-RAN & AI-Grid**
+- :seedling: &nbsp;I’m currently focused on **AI-RAN & AI-Grid**
 - :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **AI at the Edge**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
